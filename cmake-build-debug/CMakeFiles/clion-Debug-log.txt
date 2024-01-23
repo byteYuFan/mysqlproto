@@ -1,0 +1,4 @@
+/root/cmake-3.26.5/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/wyf/clion/protocol -B /home/wyf/clion/protocol/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/wyf/clion/protocol/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/protoofmysql.dir/main.cpp.o -o protoofmysql 
